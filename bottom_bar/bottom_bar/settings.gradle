@@ -1,0 +1,2 @@
+rootProject.name = "bottom_bar"
+include ':app'
